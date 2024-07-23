@@ -24,13 +24,13 @@ To run the Notepad application, ensure you have the following installed on your 
 
 1. **Clone the repository**:
     ```sh
-    git clone 
+    git clone https://github.com/Avhad-Shashwat/NotePad.git
     ```
     or download the ZIP file directly from GitHub and extract it.
 
 2. **Navigate to the project directory**:
     ```sh
-    cd notepad-application
+    cd NotePad
     ```
 
 ### Running the Application
@@ -47,7 +47,7 @@ To run the Notepad application, ensure you have the following installed on your 
 
 2. **Run the JAR file**:
     ```sh
-    java -jar NotepadApp.jar
+    java -jar ShashwatNotePad.jar
     ```
 
 #### Using the EXE File
